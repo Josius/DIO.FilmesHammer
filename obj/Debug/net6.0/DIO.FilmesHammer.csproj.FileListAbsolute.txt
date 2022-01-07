@@ -1,0 +1,15 @@
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.csproj.AssemblyReference.cache
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.GeneratedMSBuildEditorConfig.editorconfig
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.AssemblyInfoInputs.cache
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.AssemblyInfo.cs
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.csproj.CoreCompileInputs.cache
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/bin/Debug/net6.0/DIO.FilmesHammer
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/bin/Debug/net6.0/DIO.FilmesHammer.deps.json
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/bin/Debug/net6.0/DIO.FilmesHammer.runtimeconfig.json
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/bin/Debug/net6.0/DIO.FilmesHammer.dll
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/bin/Debug/net6.0/ref/DIO.FilmesHammer.dll
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/bin/Debug/net6.0/DIO.FilmesHammer.pdb
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.dll
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/ref/DIO.FilmesHammer.dll
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.pdb
+/home/werewolf/Documentos/DIO/08_Criando_um_APP_simples_de_cadastro_de_series_em_dotNET/DIO.FilmesHammer/obj/Debug/net6.0/DIO.FilmesHammer.genruntimeconfig.cache
